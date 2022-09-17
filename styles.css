@@ -95,5 +95,6 @@ h3{
 }
 
 .footer-link {
-  color: #A084CA
+  color: #A084CA;
+  text-decoration: none;
 }
